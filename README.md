@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grmatheusbq96
+- 👋 Hi, I’m @UserMGRBQ
 - 👀 I’m interested in improving my abilities as a back-end developer as well as learning new front-end technologies
 - 🌱 I’m currently learning javascript, css and html (in order to become a full-stack dev)
 - 💞️ I’m looking to collaborate on any open source code where I can learn something from
